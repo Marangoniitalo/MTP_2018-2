@@ -1,5 +1,5 @@
 // P6.c
-// Õtalo Marangoni de Souza
+// √çtalo Marangoni de Souza
 // 11811EAU014
 // MTP_2018-2
 
@@ -41,4 +41,5 @@ int main()
 	p = gera(N);
 	mostrar_pontos(p, p + N);
 	free(p);
+	return 0;
 }
